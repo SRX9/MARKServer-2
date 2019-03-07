@@ -1,0 +1,16 @@
+{
+  "name": "markserver2.0.0",
+  "version": "2.0.0",
+  "description": "multi user connecting and handling server",
+  "main": "Mainserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SRx",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
